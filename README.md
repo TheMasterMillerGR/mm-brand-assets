@@ -12,6 +12,7 @@ Brand assets for The Master Miller (logos, marks).
 | Master Fields | `https://raw.githubusercontent.com/TheMasterMillerGR/mm-brand-assets/main/Master_Fields_b.png` |
 | Master Growers | `https://raw.githubusercontent.com/TheMasterMillerGR/mm-brand-assets/main/Master_Growers_b.png` |
 | Innovation Center | `https://raw.githubusercontent.com/TheMasterMillerGR/mm-brand-assets/main/innovation_center_black.png` |
+| MM Signature Black | `https://raw.githubusercontent.com/TheMasterMillerGR/mm-brand-assets/main/MM_signature_black.png` |
 
 ## Preview
 
